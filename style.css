@@ -1,0 +1,45 @@
+.contentMY{
+   width: 1000px;
+   margin:0 auto;
+   padding-top:30px;
+   padding-bottom: 15px;
+padding-left: 100px;
+padding-right: 100px;
+font-family: Arial, Helvetica, sans-serif;
+border-bottom:1px solid gray ;
+}
+.titleMY{
+   padding-bottom: 15px;
+   font-size: 30px;
+   font-weight: 700;
+}
+.descriptionMY{
+   padding-bottom: 20px;
+   font-size: 23px;
+   font-weight: 400;
+   color:rgb(70, 70, 70);
+}
+.textMY{
+   padding-bottom: 20px;
+   font-size: 15px;
+   font-weight: 100; 
+}
+.knopki{
+   padding-top: 20px;
+   display: flex;
+   justify-content: space-between;
+}
+.delMY{
+   padding-left: 200px;
+}
+.editMY{
+   padding-right: 200px;
+}
+.nameMY{
+   font-size: 14px;
+   color:rgb(119, 114, 114);
+}
+.name_surname{
+    font-size:20px;
+text-align: end;
+}
